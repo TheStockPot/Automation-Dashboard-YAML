@@ -2,7 +2,7 @@
 
 A Home Assistant Lovelace card displaying a vehicle summary panel with fuel level, range, service interval, and fault code alerting.
 
-![Card preview showing vehicle name, image, fuel bar, service bar, range, and next service stats](Any%20Car%20in%20Home%20Assistant/Alfred%20Card.png)
+![Card preview showing vehicle name, image, fuel bar, service bar, range, and next service stats](Alfred%20Card.png)
 
 ## Dependencies
 
